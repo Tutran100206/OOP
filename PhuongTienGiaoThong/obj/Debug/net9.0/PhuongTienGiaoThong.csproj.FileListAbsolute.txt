@@ -1,0 +1,15 @@
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.AssemblyInfoInputs.cache
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.AssemblyInfo.cs
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.csproj.CoreCompileInputs.cache
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.sourcelink.json
+E:\GITOOP\PhuongTienGiaoThong\bin\Debug\net9.0\PhuongTienGiaoThong.exe
+E:\GITOOP\PhuongTienGiaoThong\bin\Debug\net9.0\PhuongTienGiaoThong.deps.json
+E:\GITOOP\PhuongTienGiaoThong\bin\Debug\net9.0\PhuongTienGiaoThong.runtimeconfig.json
+E:\GITOOP\PhuongTienGiaoThong\bin\Debug\net9.0\PhuongTienGiaoThong.dll
+E:\GITOOP\PhuongTienGiaoThong\bin\Debug\net9.0\PhuongTienGiaoThong.pdb
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.dll
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\refint\PhuongTienGiaoThong.dll
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.pdb
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\PhuongTienGiaoThong.genruntimeconfig.cache
+E:\GITOOP\PhuongTienGiaoThong\obj\Debug\net9.0\ref\PhuongTienGiaoThong.dll
