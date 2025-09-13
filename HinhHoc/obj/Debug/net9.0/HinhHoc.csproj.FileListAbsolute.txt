@@ -1,0 +1,15 @@
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.AssemblyInfoInputs.cache
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.AssemblyInfo.cs
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.csproj.CoreCompileInputs.cache
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.sourcelink.json
+E:\GITOOP\HinhHoc\bin\Debug\net9.0\HinhHoc.exe
+E:\GITOOP\HinhHoc\bin\Debug\net9.0\HinhHoc.deps.json
+E:\GITOOP\HinhHoc\bin\Debug\net9.0\HinhHoc.runtimeconfig.json
+E:\GITOOP\HinhHoc\bin\Debug\net9.0\HinhHoc.dll
+E:\GITOOP\HinhHoc\bin\Debug\net9.0\HinhHoc.pdb
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.dll
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\refint\HinhHoc.dll
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.pdb
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\HinhHoc.genruntimeconfig.cache
+E:\GITOOP\HinhHoc\obj\Debug\net9.0\ref\HinhHoc.dll
