@@ -1,0 +1,14 @@
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.AssemblyInfoInputs.cache
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.AssemblyInfo.cs
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.csproj.CoreCompileInputs.cache
+E:\GITOOP\LoaiCa\bin\Debug\net9.0\LoaiCa.exe
+E:\GITOOP\LoaiCa\bin\Debug\net9.0\LoaiCa.deps.json
+E:\GITOOP\LoaiCa\bin\Debug\net9.0\LoaiCa.runtimeconfig.json
+E:\GITOOP\LoaiCa\bin\Debug\net9.0\LoaiCa.dll
+E:\GITOOP\LoaiCa\bin\Debug\net9.0\LoaiCa.pdb
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.dll
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\refint\LoaiCa.dll
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.pdb
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\LoaiCa.genruntimeconfig.cache
+E:\GITOOP\LoaiCa\obj\Debug\net9.0\ref\LoaiCa.dll
