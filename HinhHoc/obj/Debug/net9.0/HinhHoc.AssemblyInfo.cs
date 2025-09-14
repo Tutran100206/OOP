@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HinhHoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56e3ef67b352c80acaa2d6c73cb56de40856414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccecc821e349a0242b234901a63eb2e71afe13ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("HinhHoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HinhHoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

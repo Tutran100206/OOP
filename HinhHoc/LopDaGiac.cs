@@ -5,7 +5,7 @@ namespace HinhHoc
     public abstract class LopDaGiac
     {
         private int SoCanh;
-        protected double[] chieudaicanh;
+        protected double[] chieudaicanh; // mang chieu dai canh chua so canh
         public LopDaGiac(int SoCanh)
         {
             this.SoCanh = SoCanh;
@@ -14,7 +14,7 @@ namespace HinhHoc
 
         public virtual void InThongTin()
         {
-            Console.WriteLine("Day la thong tin:\n");
+            Console.WriteLine("Day la thong tin:");
         }
         public abstract double TinhChuVi();
         public abstract double TinhDienTich();
