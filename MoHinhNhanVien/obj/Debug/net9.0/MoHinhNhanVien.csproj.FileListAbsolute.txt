@@ -1,0 +1,15 @@
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.AssemblyInfoInputs.cache
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.AssemblyInfo.cs
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.csproj.CoreCompileInputs.cache
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.sourcelink.json
+E:\GITOOP\MoHinhNhanVien\bin\Debug\net9.0\MoHinhNhanVien.exe
+E:\GITOOP\MoHinhNhanVien\bin\Debug\net9.0\MoHinhNhanVien.deps.json
+E:\GITOOP\MoHinhNhanVien\bin\Debug\net9.0\MoHinhNhanVien.runtimeconfig.json
+E:\GITOOP\MoHinhNhanVien\bin\Debug\net9.0\MoHinhNhanVien.dll
+E:\GITOOP\MoHinhNhanVien\bin\Debug\net9.0\MoHinhNhanVien.pdb
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.dll
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\refint\MoHinhNhanVien.dll
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.pdb
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\MoHinhNhanVien.genruntimeconfig.cache
+E:\GITOOP\MoHinhNhanVien\obj\Debug\net9.0\ref\MoHinhNhanVien.dll
