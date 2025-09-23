@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "E02_ThuatToanSapXep/1.0.0": {
+        "runtime": {
+          "E02_ThuatToanSapXep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E02_ThuatToanSapXep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

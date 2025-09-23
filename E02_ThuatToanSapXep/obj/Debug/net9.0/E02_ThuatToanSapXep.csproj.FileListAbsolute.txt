@@ -1,0 +1,14 @@
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.GeneratedMSBuildEditorConfig.editorconfig
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.AssemblyInfoInputs.cache
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.AssemblyInfo.cs
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\DSA\E02_ThuatToanSapXep\bin\Debug\net9.0\E02_ThuatToanSapXep.exe
+E:\DSA\E02_ThuatToanSapXep\bin\Debug\net9.0\E02_ThuatToanSapXep.deps.json
+E:\DSA\E02_ThuatToanSapXep\bin\Debug\net9.0\E02_ThuatToanSapXep.runtimeconfig.json
+E:\DSA\E02_ThuatToanSapXep\bin\Debug\net9.0\E02_ThuatToanSapXep.dll
+E:\DSA\E02_ThuatToanSapXep\bin\Debug\net9.0\E02_ThuatToanSapXep.pdb
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.dll
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\refint\E02_ThuatToanSapXep.dll
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.pdb
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\E02_ThuatToanSapXep.genruntimeconfig.cache
+E:\DSA\E02_ThuatToanSapXep\obj\Debug\net9.0\ref\E02_ThuatToanSapXep.dll
