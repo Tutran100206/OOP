@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E02_ThuatToanSapXep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6fa065578854f1fa550eef11e436d42bbc8207")]
 [assembly: System.Reflection.AssemblyProductAttribute("E02_ThuatToanSapXep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E02_ThuatToanSapXep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

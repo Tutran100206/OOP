@@ -82,11 +82,6 @@ namespace E02_ThuatToanSapXep
             }
         }
 
-        public static void QuickSortByName(List<SanPham> ds)
-        {
-            QuickSort(ds, 0, ds.Count - 1);
-        }
-
         public static void QuickSort(List<SanPham> ds, int low, int high)
         {
             if (low < high)
