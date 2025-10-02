@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\SaleFruitStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|e:\\c#\\salefruitstore\\salefruitstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\generic\\totalcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\generic\\totalcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\generic\\ipromotionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\generic\\ipromotionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\generic\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\generic\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\walkincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\walkincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\membercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\membercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\fruitproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\fruitproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\vat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\vat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\simplereceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\simplereceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\noorderdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\noorderdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\itaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\itaxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\ireceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\ireceiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\ipricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\ipricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\defaultpricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\defaultpricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|e:\\c#\\salefruitstore\\salefruitstore\\pricing\\buy10get1pricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\buy10get1pricerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|E:\\C#\\SaleFruitStore\\salefruitstore\\pricing\\iorderdiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65703FDF-7E3C-487D-82B9-DA306509183B}|SaleFruitStore\\SaleFruitStore.csproj|solutionrelative:salefruitstore\\pricing\\iorderdiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Buy10Get1PriceRule.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\Buy10Get1PriceRule.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\Buy10Get1PriceRule.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\Buy10Get1PriceRule.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\Buy10Get1PriceRule.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:09:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Services\\OrderServices.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Services\\OrderServices.cs",
+              "RelativeToolTip": "SaleFruitStore\\Services\\OrderServices.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:46:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Services\\InventoryService.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Services\\InventoryService.cs",
+              "RelativeToolTip": "SaleFruitStore\\Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:36:15.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VAT.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\VAT.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\VAT.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\VAT.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\VAT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:33:55.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NoOrderDiscount.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\NoOrderDiscount.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\NoOrderDiscount.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\NoOrderDiscount.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\NoOrderDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:33:04.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimpleReceiptFormatter.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\SimpleReceiptFormatter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:20:07.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IReceiptFormatter.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\IReceiptFormatter.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\IReceiptFormatter.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\IReceiptFormatter.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\IReceiptFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:17:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderDiscountPolicy.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\IOrderDiscountPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:16:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITaxCalculator.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\ITaxCalculator.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\ITaxCalculator.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\ITaxCalculator.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\ITaxCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:09:01.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DefaultPriceRule.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\DefaultPriceRule.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\DefaultPriceRule.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\DefaultPriceRule.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\DefaultPriceRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:48:37.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPriceRule.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\IPriceRule.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Pricing\\IPriceRule.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Pricing\\IPriceRule.cs",
+              "RelativeToolTip": "SaleFruitStore\\Pricing\\IPriceRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:26:04.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPromotionRule.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\IPromotionRule.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Generic\\IPromotionRule.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\IPromotionRule.cs",
+              "RelativeToolTip": "SaleFruitStore\\Generic\\IPromotionRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:18:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TotalCalculator.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\TotalCalculator.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Generic\\TotalCalculator.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\TotalCalculator.cs",
+              "RelativeToolTip": "SaleFruitStore\\Generic\\TotalCalculator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:16:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Generic\\InMemoryRepository.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\InMemoryRepository.cs",
+              "RelativeToolTip": "SaleFruitStore\\Generic\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:01:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Generic\\IRepository.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Generic\\IRepository.cs",
+              "RelativeToolTip": "SaleFruitStore\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:59:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalkInCustomer.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\WalkInCustomer.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\WalkInCustomer.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\WalkInCustomer.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\WalkInCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:49:48.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FruitProduct.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\FruitProduct.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\FruitProduct.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\FruitProduct.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\FruitProduct.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:44:29.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\OrderLine.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\OrderLine.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\OrderLine.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:43:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\Order.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Order.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\Order.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:33:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberCustomer.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\MemberCustomer.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\MemberCustomer.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\MemberCustomer.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\MemberCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:27:28.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Events.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\Events.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Events.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\Events.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:09:41.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Enums.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\Enums.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Enums.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:06:10.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Domain\\Customer.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Domain\\Customer.cs",
+              "RelativeToolTip": "SaleFruitStore\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:03:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Program.cs",
+              "RelativeDocumentMoniker": "SaleFruitStore\\Program.cs",
+              "ToolTip": "E:\\C#\\SaleFruitStore\\SaleFruitStore\\Program.cs",
+              "RelativeToolTip": "SaleFruitStore\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:01:50.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

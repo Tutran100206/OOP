@@ -1,0 +1,7 @@
+E:\C#\SaleFruitStore\SaleFruitStore\bin\Debug\SaleFruitStore.exe.config
+E:\C#\SaleFruitStore\SaleFruitStore\bin\Debug\SaleFruitStore.exe
+E:\C#\SaleFruitStore\SaleFruitStore\bin\Debug\SaleFruitStore.pdb
+E:\C#\SaleFruitStore\SaleFruitStore\obj\Debug\SaleFruitStore.csproj.AssemblyReference.cache
+E:\C#\SaleFruitStore\SaleFruitStore\obj\Debug\SaleFruitStore.csproj.CoreCompileInputs.cache
+E:\C#\SaleFruitStore\SaleFruitStore\obj\Debug\SaleFruitStore.exe
+E:\C#\SaleFruitStore\SaleFruitStore\obj\Debug\SaleFruitStore.pdb
